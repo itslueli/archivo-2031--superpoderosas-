@@ -1,0 +1,17 @@
+object 8e4d97df8855566e916db85f446890a557fb27e4
+type commit
+tag respaldo/pre-incidente
+tagger S. Rivas <s.rivas@archivo2031.invalid> 1779421800 -0500
+
+Respaldo automatico previo al incidente.
+
+Contiene el glifo del sello que la rama principal nunca recupero.
+
+======================================
+   ARCHIVO 2031 - FRAGMENTO 02/02
+======================================
+origen : respaldo previo al incidente
+palabra: SIMETRIA
+codigo : be61ae86f8
+--------------------------------------
+Transcribir tal cual. Se compara linea a linea.
